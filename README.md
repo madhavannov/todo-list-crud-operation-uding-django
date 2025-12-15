@@ -13,8 +13,8 @@ A simple todo list application built with Django and SQLite.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-django.git
-   cd todo-list-django
+   git clone https://github.com/madhavannov/todo-list-crud-operation-uding-django.git
+   cd todo-list-crud-operation-uding-django
    ```
 
 2. Create a virtual environment:
